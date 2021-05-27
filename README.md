@@ -1,7 +1,7 @@
 ---
 home: true
-heroText: yang.yang
-tagline: A simple and beautiful vuepress blog theme.
+heroText: Welcome to Mr.YanG's Blog
+tagline: 专业，极致，忘我
 # heroImage: /hero.png
 # heroImageStyle: {
 #   maxWidth: '600px',
