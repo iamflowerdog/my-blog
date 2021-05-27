@@ -1,6 +1,6 @@
 ---
 home: true
-heroText: yang
+heroText: yang.yang
 tagline: A simple and beautiful vuepress blog theme.
 # heroImage: /hero.png
 # heroImageStyle: {
