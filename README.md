@@ -1,6 +1,6 @@
 ---
 home: true
-heroText: vuepress-theme-reco
+heroText: yang
 tagline: A simple and beautiful vuepress blog theme.
 # heroImage: /hero.png
 # heroImageStyle: {
