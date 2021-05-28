@@ -1,5 +1,5 @@
 module.exports = {
-  "title": "yang's blog",
+  "title": "Web Develop",
   "description": "flowerdog",
   "dest": "public",
   "head": [
@@ -74,10 +74,10 @@ module.exports = {
     },
     "friendLink": [
       {
-        "title": "午后南杂",
-        "desc": "Enjoy when you can, and endure when you must.",
-        "email": "1156743527@qq.com",
-        "link": "https://www.recoluan.com"
+        "title": "kun's blog",
+        "desc": "聚沙成塔",
+        "email": "yk_job@163.com",
+        "link": "https://blog.fengxiuge.top/"
       },
       {
         "title": "vuepress-theme-reco",
@@ -90,7 +90,7 @@ module.exports = {
     "search": true,
     "searchMaxSuggestions": 10,
     "lastUpdated": "Last Updated",
-    "author": "Mr.YanG",
+    "author": "flowerdog",
     "authorAvatar": "/avatar.png",
     "record": "xxxx",
     "startYear": "2017"
