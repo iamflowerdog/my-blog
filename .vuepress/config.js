@@ -47,7 +47,7 @@ module.exports = {
         "items": [
           {
             "text": "GitHub",
-            "link": "https://github.com/recoluan",
+            "link": "https://github.com/iamflowerdog",
             "icon": "reco-github"
           }
         ]
@@ -92,7 +92,7 @@ module.exports = {
     "lastUpdated": "Last Updated",
     "author": "flowerdog",
     "authorAvatar": "/avatar.png",
-    "record": "yangyonghai9125@hotmail.com",
+    "record": "Just Do IT.",
     "startYear": "2017"
   },
   "markdown": {
