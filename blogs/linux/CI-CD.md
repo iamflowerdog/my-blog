@@ -50,7 +50,7 @@ Jenkins默认端口8080，若被占用或想更换端口，修改Jenkins_PORT的
 `vim ~/.ssh/id_ed25519.pub` 可以看到服务器的公钥，复制文件里以你的邮箱为结尾的字符串
 然后到GitHub账户，找到 Settings--> SSH and GPG keys --> New SSH key 然后把刚才复制那段字符串粘贴到输入框里面
 然后点击 Add SSH key, 添加成功后，可以在你的SSH keys 列表看到最近的读写记录。  
-![github_sshkey](/jenkins/github_sshkey.png)
+![github_sshkey](/jenkins/github_sshkey.png)  
 <!-- <img src="/github_sshkey.png" height="300px"> -->
 如果你看到这个，现在只能说明你的服务器和GitHub已经关联起来，怎么让Jenkins可以直接pull代码，下面接着说。
 
