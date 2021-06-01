@@ -100,7 +100,7 @@ module.exports = {
     "author": "flowerdog",
     "authorAvatar": "/avatar.png",
     "record": "Just Do IT.",
-    "startYear": "2017"
+    "startYear": "2021"
   },
   "markdown": {
     "lineNumbers": true
