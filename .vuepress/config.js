@@ -20,6 +20,13 @@ module.exports = {
   ],
   "theme": "reco",
   "themeConfig": {
+    vssueConfig: {
+      platform: 'github',
+      owner: 'iamflowerdog',
+      repo: 'my-blog',
+      clientId: '666693621f4b89b93f21',
+      clientSecret: '698904fe681a09f67be3ee5df713aae9b45506f9',
+    },
     "nav": [
       {
         "text": "Home",
