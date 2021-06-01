@@ -92,7 +92,7 @@ module.exports = {
     "lastUpdated": "Last Updated",
     "author": "flowerdog",
     "authorAvatar": "/avatar.png",
-    "record": "xxxx",
+    "record": "yangyonghai9125@hotmail.com",
     "startYear": "2017"
   },
   "markdown": {
