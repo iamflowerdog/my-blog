@@ -5,6 +5,7 @@ tags:
  - Jenkins
  - GitLab
  - Linux
+ - CI/CD
 categories: 
  - Linux
 sidebar: 'auto'
