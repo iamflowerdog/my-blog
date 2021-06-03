@@ -7,6 +7,8 @@ tags:
  - Linux
 categories: 
  - Linux
+sidebar: 'auto'
+sticky: 1
 ---
 
 第一次写博客，今后我准备把自己的想法或者实践，以博客的形式分享给大家，对外输出的同时，也有助于自己的技术提升。
