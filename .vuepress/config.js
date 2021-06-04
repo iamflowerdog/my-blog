@@ -99,7 +99,8 @@ module.exports = {
     "lastUpdated": "Last Updated",
     "author": "flowerdog",
     "authorAvatar": "/avatar.png",
-    "record": "Just Do IT.",
+    "record": "豫ICP备16016819号",
+    "recordLink": "https://beian.miit.gov.cn/#/Integrated/index",
     "startYear": "2021"
   },
   "markdown": {
