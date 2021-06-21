@@ -1,5 +1,5 @@
 ---
-title: How to auto build when push your code origin?
+title: 代码提交到Github，通过Jenkins自动打包，更新
 date: 2021-05-31
 tags:
  - Jenkins
