@@ -1,5 +1,5 @@
 module.exports = {
-  "title": "Web Develop",
+  "title": "如何做一个前端开发",
   "description": "flowerdog",
   "dest": "public",
   "head": [
