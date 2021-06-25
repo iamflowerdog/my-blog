@@ -101,6 +101,8 @@ module.exports = {
     "authorAvatar": "/avatar.png",
     "record": "京ICP备2021019798号",
     "recordLink": "https://beian.miit.gov.cn",
+    "cyberSecurityRecord": '京公网安备11010502045123',
+    "cyberSecurityLink": 'http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=11010502045123',
     "startYear": "2021"
   },
   "markdown": {
