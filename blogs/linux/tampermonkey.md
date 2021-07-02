@@ -16,7 +16,7 @@ Tampermonkey(油猴) 是Chrome浏览器插件，使用它可以用来屏蔽知�
 
 ![layout](/tampermonkey/layout.png)
 
-我们可以很容易的看到，广告元素和其他元素还是不一样的，广告元素的class多了一个 `TopstoryItem--advertCard`，我们把这个不一样
+我们可以很容易的看到，广告元素和正常元素还是不一样的，广告元素的class多了一个 `TopstoryItem--advertCard`，我们把这个不一样
 的广告元素剔除就可以了，我们打开浏览器的的开发者模式(Mac键盘同时按下 comand + option + i, windows 按 F12)，进入console输入下面的代码试一下，
 就可以神奇的发现广告元素不见了。
 
