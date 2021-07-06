@@ -20,12 +20,16 @@ module.exports = {
   ],
   "theme": "reco",
   "themeConfig": {
-    vssueConfig: {
-      platform: 'github',
-      owner: 'iamflowerdog',
-      repo: 'my-blog',
-      clientId: '666693621f4b89b93f21',
-      clientSecret: '698904fe681a09f67be3ee5df713aae9b45506f9',
+    // vssueConfig: {
+    //   platform: 'github',
+    //   owner: 'iamflowerdog',
+    //   repo: 'my-blog',
+    //   clientId: '666693621f4b89b93f21',
+    //   clientSecret: '698904fe681a09f67be3ee5df713aae9b45506f9',
+    // },
+    valineConfig: {
+      appId: 'r8TR2qfNjINrljiIcvNuKA17-gzGzoHsz',// your appId
+      appKey: 'ObCuKoMjcIS0qbk2c8cOtX8j', // your appKey
     },
     "nav": [
       {
