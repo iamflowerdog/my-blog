@@ -10,9 +10,12 @@ categories:
 sidebar: 'auto'
 ---
 
-
+:::tip
 Tampermonkey(油猴) 是Chrome浏览器插件，使用它可以用来屏蔽知乎的广告，Tampermonkey 怎么实现的呢? 很简单！当我们在刷知乎或者微博的信息流
 的时候，浏览器会把这些页面呈现给我们，这些页面也是由类似积木拼接起来的，只不过用户看不到浏览器在下面做的工作。下面以访问知乎为例
+:::
+
+<!-- more -->
 
 ![layout](/tampermonkey/layout.png)
 
