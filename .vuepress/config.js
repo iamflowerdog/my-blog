@@ -102,7 +102,7 @@ module.exports = {
     "searchMaxSuggestions": 10,
     "lastUpdated": "Last Updated",
     "author": "flowerdog",
-    "authorAvatar": "/avatar.png",
+    "authorAvatar": "/avatar2.png",
     "record": "京ICP备2021019798号",
     "recordLink": "https://beian.miit.gov.cn",
     "cyberSecurityRecord": '京公网安备11010502045123',
