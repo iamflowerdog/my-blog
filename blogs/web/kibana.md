@@ -7,6 +7,7 @@ tags:
 categories: 
  - Web
 sidebar: 'auto'
+sticky: 1
 
 ---
 
