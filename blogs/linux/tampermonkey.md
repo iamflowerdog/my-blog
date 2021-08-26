@@ -50,7 +50,7 @@ tampermonkey 就是帮我们做了这些事情，下面是tampermonkey的安装�
 
 ### 4. 编写脚本
 
-把下面这些代码复制进去，然后保存，你还可以把不想看的关键字加进去，比如你不想看关于 孙杨 推荐
+把下面这些代码复制进去，然后保存，你还可以把不想看的关键字加进去，比如你不想看关于 吴亦凡 推荐
 
 ```
 // ==UserScript==
@@ -66,7 +66,7 @@ tampermonkey 就是帮我们做了这些事情，下面是tampermonkey的安装�
 var sameNames = [];
 
 // 这里是屏蔽列表, 不想看的关键字写在这里就行了.
-var gotohell = ["广告", "孙杨"];
+var gotohell = ["广告", "吴亦凡"];
 
 window.onload=function()
 {
