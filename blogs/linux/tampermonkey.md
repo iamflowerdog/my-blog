@@ -57,7 +57,7 @@ tampermonkey 就是帮我们做了这些事情，下面是tampermonkey的安装�
 // @name         clean zhihu ad
 // @namespace    http://tampermonkey.net/
 // @version      0.1
-// @description  try to take over the world!
+// @description  try to take over the world!！
 // @author       You
 // @match        https://www.zhihu.com
 // @grant        none
