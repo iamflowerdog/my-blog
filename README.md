@@ -26,3 +26,10 @@ features:
 - title: Tomorrow
   details: 希望更多的爱好者能够参与进来，帮助这个主题更好的成长.
 ---
+
+### TODO
+1. git stash 厉害的地方，可以在1.5分支上修改东西，然后 stash ,然后在切换到1.1分支上apply
+
+2. 动态获取对象属性
+
+3. 
