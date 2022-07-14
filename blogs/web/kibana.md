@@ -1,5 +1,5 @@
 ---
-title: How to fix test bugs?
+title: How to fix bugs?
 date: 2021-08-17
 tags:
  - Kibana
