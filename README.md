@@ -24,7 +24,7 @@ features:
 - title: Today
   details: 希望帮助更多的人花更多的时间在内容创作上，而不是博客搭建上
 - title: Tomorrow
-  details: 希望更多的爱好者能够. ggg参与进来，帮助这个主题更好的成长.
+  details: 希望更多的爱好者能够. gg777g参与进来，帮助这个主题更好的成长.
 ---
 
 --  bryan
