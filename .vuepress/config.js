@@ -1,5 +1,5 @@
 module.exports = {
-  "title": "如何做一个前端开发",
+  "title": "天马行空",
   "description": "flowerdog",
   "dest": "public",
   "head": [
