@@ -6,8 +6,9 @@ categories:
  - 生活
 sidebar: 'auto'
 
-# keys:
-#  - 'e10adc3949ba59abbe56e057f20f883e'
+keys:
+ - 'e10adc3949ba59abbe56e057f20f883e'
+
 ---
 
 近期，国内疫情肆虐，上海因此已经lockdown一个多了，什么时候解封还看不到迹象，春节度假结束回京，
