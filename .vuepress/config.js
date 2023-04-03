@@ -91,11 +91,23 @@ module.exports = {
         "link": "https://blog.fengxiuge.top/"
       },
       {
-        "title": "vuepress-theme-reco",
-        "desc": "A simple and beautiful vuepress Blog & Doc theme.",
-        "avatar": "https://vuepress-theme-reco.recoluan.com/icon_vuepress_reco.png",
-        "link": "https://vuepress-theme-reco.recoluan.com"
-      }
+        "title": "ChatGPT-AliCloud",
+        "desc": "AI Chatbot",
+        "avatar": "https://avatars.githubusercontent.com/u/27678693?s=40&v=4",
+        "link": "https://ai.sprit.vip/"
+      },
+      {
+        "title": "Me Blog with React",
+        "desc": "Yang Blog",
+        "avatar": "https://avatars.githubusercontent.com/u/27678693?s=40&v=4",
+        "link": "https://me.sprit.vip/"
+      },
+      {
+        "title": "Jenkins",
+        "desc": "Jenkins website",
+        "avatar": "https://avatars.githubusercontent.com/u/27678693?s=40&v=4",
+        "link": "http://47.95.20.230:8080/"
+      },
     ],
     "logo": "/logo.png",
     "search": true,
